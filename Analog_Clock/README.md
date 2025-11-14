@@ -15,4 +15,4 @@ This project is a simple analog clock built using HTML, CSS, and JavaScript. It 
 3. Enjoy!
 
 ## Screenshot
-![Clock Screenshot](./Clock_Problem/clock-screenshot.png)
+<img src="./Screenshot.png" style="width: 20%; height: auto;">
